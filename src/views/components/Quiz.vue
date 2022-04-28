@@ -93,14 +93,14 @@
                 questionImage: new URL('../../assets/images/quiz/No1-Australia.png', import.meta.url).href,
                 question: 'Ibu kota dari negara Australia adalah Sydney.',
                 answers: { a: "True", b: "False" },
-                correctAnswer: "a",
+                correctAnswer: "b",
             },
             {
                 type: "image-text",
                 questionImage: new URL('../../assets/images/quiz/No2-Bhinneka.png', import.meta.url).href,
                 question: 'Bhinneka Tunggal Ika merupakan lambang negara RI.',
                 answers: { a: "True", b: "False" },
-                correctAnswer: "b",
+                correctAnswer: "a",
             },
             {
                 type: "image-text",
@@ -121,7 +121,7 @@
                 questionImage: new URL('../../assets/images/quiz/No5-Sungai.png', import.meta.url).href,
                 question: 'Sungai terpanjang didunia adalah sungai Amazon.',
                 answers: { a: "True", b: "False" },
-                correctAnswer: "a",
+                correctAnswer: "b",
             },
             ],
         }
